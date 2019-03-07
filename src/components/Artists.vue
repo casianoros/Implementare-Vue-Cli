@@ -10,6 +10,7 @@
 
 <script>
   import artists from '../assets/assets/data/artists'
+  
   export default {
     name: 'artists',
 
